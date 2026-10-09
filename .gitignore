@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.venv-api/
+.test-deps/
+*.log
+*.json
+*.tmp
+backtest_results/
+data/intraday_cache/
+
+# Isolated dashboard frontend
+web/node_modules/
+web/dist/
+web/.vite/
+web/artifacts/
+web/*.tsbuildinfo
+!web/package.json
+!web/package-lock.json
+!web/tsconfig.json
+!web/.env.example

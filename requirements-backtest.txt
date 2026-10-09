@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional chart rendering; core backtesting uses the existing dependencies.
+matplotlib>=3.7,<4

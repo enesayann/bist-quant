@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+pandas>=2.0,<4
+requests>=2.31,<3
+schedule>=1.2,<2
+tzdata>=2024.1
+pytz>=2024.1
